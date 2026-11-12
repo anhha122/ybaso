@@ -1,0 +1,24 @@
+# Visual Studio
+.vs/
+bin/
+obj/
+*.user
+*.suo
+
+# Environment
+.env
+.env.*
+!.env.example
+
+# Sensitive files
+*.pfx
+*.p12
+*.key
+
+# Database local
+*.db
+*.sqlite
+*.sqlite3
+
+# Logs
+*.log
